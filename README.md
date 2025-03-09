@@ -63,7 +63,7 @@ The **Smart Home Interface System** is a proof-of-concept project designed to au
 
 ## Contributors
 - **Stefan-Cristian Marcu**  -- https://github.com/Stefan2810
-- **Sorin-Ioan-Alexandru Bîrchi**  -- github link
+- **Sorin-Ioan-Alexandru Bîrchi**  -- https://github.com/SorinAlexB
 - **Silvia-Georgiana Dumitrache**  -- github link
 
 
